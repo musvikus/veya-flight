@@ -1,0 +1,37 @@
+VEYA FLIGHT - FREEWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 Lukasz Fojcik (the "Author"). All rights reserved.
+
+Please read this agreement before installing or using Veya Flight (the "Software"). By installing or using the Software you accept it. If you do not accept it, do not install or use the Software.
+
+1. FREE TO USE
+The Author grants you a free, non-exclusive, non-transferable licence to install and run the Software on your own computers for your personal, non-commercial use. The Software costs nothing and you may not be charged for it.
+
+2. SHARING
+You may share the unmodified installer with other people free of charge, together with this agreement. You may show the Software in screenshots, videos and streams, including on monetised channels. You may not sell the Software, charge for access to it, bundle it with a paid product, or distribute a modified copy.
+
+3. WHAT YOU MAY NOT DO
+You may not modify the Software, decompile or reverse engineer it (except where the law gives you that right regardless of this agreement), remove copyright or licence notices, or use it to build a competing product. The pictures, photographs, texts, sounds, data tables and other content of the Software remain the property of the Author or of their respective owners and may not be extracted and used elsewhere without permission.
+
+4. YOUR DATA
+Everything you create in the Software (your pilot, fleet, flights and settings) is saved on your own computer. The Software has no account and no tracking. It contacts the internet only to load flag pictures and fonts, and, if you leave it switched on, to ask GitHub whether a newer version exists (this sends your IP address to GitHub, like any web request). The update check can be turned off in the settings menu. Links to other sites, for example SimBrief, open in your browser.
+
+5. NOT AFFILIATED, NOT FOR REAL FLYING
+Veya Flight is an independent project. It is not affiliated with or endorsed by Microsoft, Asobo Studio, any airline, aircraft manufacturer, airport or other company whose name or logo appears in it. Those names and logos belong to their owners and are used only to identify them. Routes come from community-maintained route data; flight times, flight numbers, fares and schedules are modelled for the game. The Software is a game and must never be used for real-world flight planning or navigation.
+
+6. THIRD-PARTY COMPONENTS
+The Software contains third-party software under its own licences, among them Electron and Chromium (MIT and other open-source licences) and node-simconnect (LGPL-3.0-or-later; it is a separate module that you may replace with your own build). It also uses open data, among them OurAirports (public domain) and route data from the Virtual Radar Server standing data project (CC0), and fonts under the SIL Open Font Licence. Their licence texts are included with the Software or available from their authors.
+
+7. NO WARRANTY
+The Software is provided "as is", without any warranty, express or implied, including fitness for a particular purpose. It is an early version and may contain errors; it may lose or corrupt saved data. Make backups of your save if it matters to you (the Software keeps automatic backups, but they are not a guarantee).
+
+8. LIMITATION OF LIABILITY
+To the extent permitted by law, the Author is not liable for any damage arising from the use of the Software, including lost data or lost time. This does not limit liability that cannot be limited by law, for example liability for intent or for injury to life, body or health.
+
+9. UPDATES AND ENDING
+The Author may change the Software, publish new versions or stop its development at any time. This licence ends automatically if you break it; you must then delete all copies of the Software.
+
+10. GENERAL
+If a part of this agreement is not valid, the rest stays valid. This agreement is governed by the laws of the Federal Republic of Germany, without taking away the mandatory consumer protection of the country where you live.
+
+Questions: https://github.com/musvikus/veya-flight
